@@ -2,7 +2,7 @@
 <schemalist gettext-domain="claude-code-usage">
   <schema id="org.gnome.shell.extensions.claude-code-usage" path="/org/gnome/shell/extensions/claude-code-usage/">
     <key name="refresh-interval" type="i">
-      <default>300</default>
+      <default>3600</default>
       <summary>Refresh interval</summary>
       <description>How often to refresh usage data in seconds</description>
     </key>
